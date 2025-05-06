@@ -1,0 +1,22 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 100px;
+    font-size:x-large;
+    font-style: oblique;
+    text-shadow: 20px;
+
+}
+.container{
+    background-color: aqua;
+    padding: 40px;
+    border-radius: 150px;
+}
+
+#Timer
+{
+    color: blueviolet;
+    padding: 10px;
+    font-size:larger;
+}
